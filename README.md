@@ -36,7 +36,6 @@ cd Alibaba-LMS-Deployment
 
 Edit `terraform.tfvars` and set your required variables:
 
-```hcl
 project_name     = "demo-lms"
 stage            = "stag"
 vpc_cidr_block   = "192.168.0.0/16"
